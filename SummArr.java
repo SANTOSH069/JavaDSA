@@ -11,8 +11,5 @@ public class SummArr{
         }
         int l = 0;
         int r = arr.length - 1;
-        while(l < r){
-            if(arr[l] )
-        }
     }
 }
