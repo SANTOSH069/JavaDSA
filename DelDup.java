@@ -11,7 +11,10 @@ public class DelDup {
 		    arr[i] = sc.nextInt();
 		} 
 		Arrays.asList(arr);
-
+		String Sample = "Sample";
+		for(int i = 0; i < Sample.length(); i++){
+			if(
+		}
 	
 
     }
