@@ -4,7 +4,6 @@ public class StackOp {
 
     public static int BaseBallSum(String [] ops){
         Stack<Integer> st = new Stack<>();
-
         for (String op : ops) {
 
             if (op.equals("+")) {
