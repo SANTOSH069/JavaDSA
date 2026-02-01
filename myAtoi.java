@@ -27,6 +27,6 @@ public class myAtoi {
 
     public static void main(String[] args) {
         String s = " -12345";
-        System.out.println(myAtoiNum(s)); // -12345
+        System.out.println(myAtoiNum(s)); 
     }
 }
