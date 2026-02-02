@@ -1,8 +1,8 @@
 public class maxArray {
-    public static  subArr(int nums, int left, int right){
-        List<List<Integer> ls = new ArrayList<>();
+    // public static  subArr(int nums, int left, int right){
+    //     List<List<Integer> ls = new ArrayList<>();
 
-    }
+    // }
     public static void main(String[] args) {
         int n = 10;
         int []nums = new int[n];
