@@ -17,8 +17,8 @@ public class LongestPal {
                 maxLen = currLen;
                 longestPalindrome = s.substring(left, right + 1);
             }
-            left++;
-            right--;
+            left--;
+            right++;
         }
     }
     public static void main(String[] args) {
